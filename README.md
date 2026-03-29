@@ -43,8 +43,9 @@ In this task I have written a case study on *UPI fraud* and created a prevention
 
 ## Learning Outcome
 
-On completing this project:
--I have learned how to use different digital tools 
--I have learned how to create a professional online presence
--I have also learned how to communicate effectively online 
--I also understood the importance of cybersecurity and safe internet practices.
+- I have learned how to use different digital tools 
+- I have learned how to create a professional online presence
+- I have also learned how to communicate effectively online 
+- I also understood the importance of cybersecurity and safe internet practices
+
+
